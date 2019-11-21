@@ -12,8 +12,8 @@
     "test:watch": "jest --watch"
   },
   "dependencies": {
-    "ffi": "^2.2.0",
-    "ref": "^1.3.4",
+    "ref": "TooTallNate/ref",
+    "ffi": "node-ffi/node-ffi"
     "ref-array": "^1.2.0"
   },
   "devDependencies": {
