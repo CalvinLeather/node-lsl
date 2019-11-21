@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "ref": "TooTallNate/ref",
-    "ffi": "node-ffi/node-ffi"
+    "ffi": "node-ffi/node-ffi",
     "ref-array": "^1.2.0"
   },
   "devDependencies": {
