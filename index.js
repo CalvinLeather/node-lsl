@@ -1,5 +1,5 @@
 const path = require('path');
-const ffi = require('ffi');
+const ffi = require('ffi-napi');
 const ref = require('ref');
 const ArrayType = require('ref-array');
 const EventEmitter = require('events');
