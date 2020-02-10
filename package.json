@@ -14,7 +14,7 @@
   "dependencies": {
     "ref-napi": "^1.4.2",
     "ffi-napi": "^2.4.5",
-    "ref-array": "^1.2.0"
+    "ref-array": "git+https://github.com/CalvinLeather/ref-array.git"
   },
   "devDependencies": {
     "jest": "^20.0.4"
